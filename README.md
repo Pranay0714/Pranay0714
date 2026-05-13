@@ -1,6 +1,6 @@
 # Hi, I'm Pranay 👋
 
-### MERN Stack Developer | MCA Student
+### Full Stack Developer | MCA Student
 
 💻 Passionate about building modern and responsive full-stack web applications.
 
@@ -8,26 +8,17 @@
 
 ## 🚀 Tech Stack
 
-### MERN Stack
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-- Bootstrap 5
+- React.js - JavaScript (ES6+) - HTML5 - CSS3 - Tailwind CSS - Bootstrap 5 - jQuery
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
+### Backend
+- Node.js - Express.js - REST APIs
 
+### Database
+- MongoDB - SQL (Basic)
+
+### Tools & Platforms
+- Git - GitHub - VS Code - Postman - Vercel - Render
 ---
 
 ## 📌 Featured Projects
