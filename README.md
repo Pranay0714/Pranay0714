@@ -1,85 +1,51 @@
-# Hi, I'm Pranay Parmar 👋
+# Hi, I'm Pranay 👋
 
-### Full Stack Developer (MERN) | MCA Student
+### MERN Stack Developer | MCA Student
 
-💻 Passionate about building modern, scalable, and user-centric web applications using the MERN Stack.
-
-🌱 Currently improving my skills in:
-- Advanced React
-- Backend Architecture
-- Data Structures & Algorithms in C++
+💻 Passionate about building modern and responsive full-stack web applications.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Frontend
+### MERN Stack
+- MongoDB
+- Express.js
 - React.js
-- JavaScript (ES6+)
+- Node.js
+
+### Frontend
 - HTML5
 - CSS3
+- JavaScript
 - Tailwind CSS
 - Bootstrap 5
-- jQuery
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Database
-- MongoDB
-- SQL (Basic)
-
-### Tools & Platforms
+### Tools
 - Git
 - GitHub
 - VS Code
 - Postman
 - Vercel
-- Render
 
 ---
 
 ## 📌 Featured Projects
-
-### 🔹 WordGlow – AI-Powered Text Enhancement App
-- Full-stack AI-powered text enhancement application
-- Built using React.js, Node.js, Express.js, and Tailwind CSS
-- Features text summarization, rephrasing, and intelligent API integration
-
-### 🔹 Blog Web App
-- Responsive full-stack blogging platform
-- Developed using Node.js, Express.js, EJS, JavaScript, and jQuery
-- Includes dynamic routing and blog post management
-
-### 🔹 Simon Game
-- Interactive browser-based memory game
-- Built using HTML, CSS, and JavaScript
-- Features dynamic pattern generation and responsive gameplay
+🔹 WordGlow – AI-powered text enhancement app  
+🔹 Blog Web App – Full-stack blogging platform  
+🔹 Simon Game – Interactive browser memory game  
 
 ---
 
-## 📚 Currently Learning
-- Next.js
-- Advanced MERN Stack Concepts
+## 🌱 Currently Learning
+- Full Stack Development
+- Advanced React
 - DSA with C++
 
 ---
 
-## 📈 GitHub Goals
-- Build production-ready full-stack applications
-- Contribute to open-source projects
-- Improve problem-solving and system design skills
-
----
-
 ## 📫 Connect With Me
+- GitHub: github.com/Pranay0714
+- LinkedIn: linkedin.com/in/pranay-parmar-a2b922365
 
-- GitHub: https://github.com/Pranay0714
-- LinkedIn: www.linkedin.com/in/pranay-parmar-a2b922365
-- Email: pranayparmar2005@gmail.com
-
----
-
-⭐ Always learning, building, and improving as a developer.
+⭐ Always learning and building new projects.
