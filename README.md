@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Pranay0714/Pranay0714/blob/main/profile banner.png" />
+</p>
+
 # Hi, I'm Pranay 👋
 
 ### Full Stack Developer | MCA Student
