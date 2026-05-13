@@ -9,16 +9,16 @@
 ## 🚀 Tech Stack
 
 ### Frontend
-- React.js - JavaScript (ES6+) - HTML5 - CSS3 - Tailwind CSS - Bootstrap 5 - jQuery
+- React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap 5 • jQuery
 
 ### Backend
-- Node.js - Express.js - REST APIs
+- Node.js • Express.js • REST APIs
 
 ### Database
-- MongoDB - SQL (Basic)
+- MongoDB • SQL (Basic)
 
 ### Tools & Platforms
-- Git - GitHub - VS Code - Postman - Vercel - Render
+- Git • GitHub • VS Code • Postman • Vercel • Render
 ---
 
 ## 📌 Featured Projects
